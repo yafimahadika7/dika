@@ -1,0 +1,84 @@
+[
+  
+  {
+    "name": "Introduction to HTML",
+    "desc": "HTML is the standard language for creating web page structures.",
+    "image": "1_1",
+    "category": "mern",
+    "links": {
+      "view": "https://www.sololearn.com/certificates/CC-LQYF9SNY"
+    }
+  },
+  {
+    "name": "Introduction to CSS",
+    "desc": "CSS styles web pages by controlling layout, colors, and fonts.",
+    "image": "1_2",
+    "category": "mern",
+    "links": {
+      "view": "https://www.sololearn.com/certificates/CC-BJNUNBNQ"
+    }
+  },
+  {
+    "name": "Introduction to JavaScript",
+    "desc": "JavaScript is a programming language used for interactive web functionality.",
+    "image": "1_3",
+    "category": "mern",
+    "links": {
+      "view": "https://www.sololearn.com/certificates/CC-LS21JDTD"
+    }
+  },
+  {
+    "name": "JavaScript Intermediate",
+    "desc": "JavaScript Intermediate involves advanced concepts like functions, objects, and events.",
+    "image": "1_4",
+    "category": "mern",
+    "links": {
+      "view": "https://www.sololearn.com/certificates/CC-RXGSELZS"
+    }
+  },
+  {
+    "name": "Docker Compose",
+    "desc": "Docker Compose is a tool for defining and running multi-container Docker applications.",
+    "image": "1_7",
+    "category": "lamp",
+    "links": {
+      "view": "https://codepolitan.com/c/G3UVZDC"
+    }
+  },
+  {
+    "name": "Login Form",
+    "desc": "A simple interface for user authentication with username and password.",
+    "image": "2_1",
+    "category": "mern",
+    "links": {
+      "view": "https://login.05tple004.my.id/index.html"
+    }
+  },
+  {
+    "name": "Calculator",
+    "desc": "Web calculator simplifies calculations directly in your browser online.",
+    "image": "2_2",
+    "category": "mern",
+    "links": {
+      "view": "https://calculator.05tple004.my.id/index.html"
+    }
+  },
+  {
+    "name": "Play Tetris",
+    "desc": "Tetris is a game of arranging falling blocks to clear lines and avoid overflow.",
+    "image": "2_3",
+    "category": "mern",
+    "links": {
+      "view": "https://tetris.05tple004.my.id/"
+    }
+  },
+  {
+    "name": "Play Tetris",
+    "desc": "Tetris is a game of arranging falling blocks to clear lines and avoid overflow.",
+    "image": "2_3",
+    "category": "mern",
+    "links": {
+      "view": "https://tetris.05tple004.my.id/"
+    }
+  }
+]
