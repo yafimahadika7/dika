@@ -107,6 +107,7 @@ header .navbar ul {
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-left: -40px;
 }
 header .navbar li {
   margin-left: 2.5rem;
