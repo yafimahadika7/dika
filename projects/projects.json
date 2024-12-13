@@ -73,12 +73,12 @@
     }
   },
   {
-    "name": "Play Tetris",
+    "name": "Dashboard",
     "desc": "Tetris is a game of arranging falling blocks to clear lines and avoid overflow.",
-    "image": "2_3",
+    "image": "2_4",
     "category": "mern",
     "links": {
-      "view": "https://tetris.05tple004.my.id/"
+      "view": "https://dashboard.05tple004.my.id/"
     }
   }
 ]
