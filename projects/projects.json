@@ -74,7 +74,7 @@
   },
   {
     "name": "Dashboard",
-    "desc": "Tetris is a game of arranging falling blocks to clear lines and avoid overflow.",
+    "desc": "The annual sales dashboard summarizes revenue, trends, and performance.",
     "image": "2_4",
     "category": "mern",
     "links": {
