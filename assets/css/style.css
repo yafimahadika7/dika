@@ -179,6 +179,10 @@ header .navbar ul li a:hover {
   header .navbar.nav-toggle {
     right: 0;
   }
+  /* perubahan */
+  .work .desc .btns{
+    margin-right: 20px;
+  }
 }
 /* hamburger icon ends */
 
