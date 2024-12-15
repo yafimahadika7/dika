@@ -179,10 +179,6 @@ header .navbar ul li a:hover {
   header .navbar.nav-toggle {
     right: 0;
   }
-  /* perubahan */
-  .work .desc .btns{
-    margin-right: 100px;
-  }
 }
 /* hamburger icon ends */
 
@@ -720,10 +716,9 @@ header .navbar ul li a:hover {
 }
 .work .desc .btns {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   width: 100%;
   margin-top: 2rem;
-  margin-left: 100px;
 }
 .work .desc .btns .btn {
   line-height: 0;
