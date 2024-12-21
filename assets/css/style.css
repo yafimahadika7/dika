@@ -833,6 +833,7 @@ header .navbar ul li a:hover {
   border-width: 10px 0 10px 10px;
   border-color: transparent transparent transparent #f68c09;
 }
+
 /* arrows pointing left  */
 .experience .right::before {
   content: " ";

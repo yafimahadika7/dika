@@ -40,9 +40,36 @@
     "name": "Docker Compose",
     "desc": "Docker Compose is a tool for defining and running multi-container Docker applications.",
     "image": "1_7",
-    "category": "lamp",
+    "category": "basicweb",
     "links": {
       "view": "https://codepolitan.com/c/G3UVZDC"
+    }
+  },
+  {
+    "name": "Docker File",
+    "desc": "Docker file is a tool for defining and running multi-container Docker applications.",
+    "image": "1_7",
+    "category": "basicweb",
+    "links": {
+      "view": "https://codepolitan.com/c/TEZ2VEB"
+    }
+  },
+  {
+    "name": "Docker",
+    "desc": "Docker is a tool for defining and running multi-container Docker applications.",
+    "image": "1_7",
+    "category": "basicweb",
+    "links": {
+      "view": "https://codepolitan.com/c/DNVLIEK"
+    }
+  },
+  {
+    "name": "Dashboard Attendance",
+    "desc": "Project Development of a Dashboard for Midterm Exam to Calculate Student Attendance.",
+    "image": "2_5",
+    "category": "mern",
+    "links": {
+      "view": "https://uts.05tple004.my.id/index.html"
     }
   },
   {
